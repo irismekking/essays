@@ -4,6 +4,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/3/31/Tanacetum_vulgare_in_Sivas%2C_Turkey.jpg" 
        layout="vertical">
 
+
 # Introduction
 You might think of a Game of Thrones character when you think of the name Tansy, but really it is a beautiful, yet tricky, plant common in Limburg, The Netherlands. It is known for its bright yellow round flower heads which can withstand fierce weather circumstances. That is probably why the plant got its name: Tanacetum Vulgare. 
 
